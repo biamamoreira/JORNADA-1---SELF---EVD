@@ -42,15 +42,12 @@
             </td>
           </tr>
 
-          <!-- SELF LOGO -->
-          <tr>
-            <td bgcolor="#ffffff" style="background-color:#ffffff; padding: 28px 40px 16px; text-align:center;">
-              <img src="https://raw.githubusercontent.com/biamamoreira/JORNADA-1---SELF---EVD/refs/heads/main/Colec%CC%A7a%CC%83o%20Self%20-%20LOGO.png"
-                   alt="SELF by EVD" width="130"
-                   style="display:inline-block; max-width:130px; height:auto;">
-            </td>
-          </tr>
-
+<!-- SELF LOGO -->
+<tr>
+  <td bgcolor="#ffffff" ...>
+    <img src="...LOGO.png" ...>
+  </td>
+</tr>
           <!-- HERO IMAGE -->
           <tr>
             <td style="padding:0; line-height:0; font-size:0;">
