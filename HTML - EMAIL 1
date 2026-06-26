@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="x-apple-disable-message-reformatting" />
+  <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
+  <title>SELF by EVD — Evidence Ballet</title>
+  <style type="text/css">
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; display: block; }
+    body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+    a { color: #595959; }
+    @import url('https://fonts.googleapis.com/css2?family=Clear+Sans:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+    @media screen and (max-width: 480px) {
+      .email-container { width: 100% !important; }
+      .mobile-full { width: 100% !important; display: block !important; }
+      .mobile-pad { padding-left: 24px !important; padding-right: 24px !important; }
+      .hero-img { height: 200px !important; object-fit: cover; }
+      .body-text { font-size: 15px !important; }
+    }
+  </style>
+</head>
+<body style="margin:0; padding:0; background-color:#ede8e6;">
+
+  <div style="display:none; max-height:0; overflow:hidden; font-size:1px; line-height:1px; color:#ede8e6; opacity:0;">
+    E sabe exatamente o que você sente quando está em movimento.&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;
+  </div>
+
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color:#ede8e6;">
+    <tr>
+      <td align="center" style="padding: 24px 0;">
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" class="email-container" style="background-color:#ffffff;">
+
+          <!-- HEADER GRAFITE -->
+          <tr>
+            <td bgcolor="#595959" style="background-color:#595959; padding: 22px 40px;">
+              <img src="https://raw.githubusercontent.com/biamamoreira/evidence-ballet-email-templates/refs/heads/main/logo_creme.png"
+                   alt="EVIDENCE ballet" width="150"
+                   style="display:block; max-width:150px; height:auto;">
+            </td>
+          </tr>
+
+          <!-- SELF LOGO -->
+          <tr>
+            <td bgcolor="#ffffff" style="background-color:#ffffff; padding: 28px 40px 16px; text-align:center;">
+              <img src="https://raw.githubusercontent.com/biamamoreira/JORNADA-1---SELF---EVD/refs/heads/main/Colec%CC%A7a%CC%83o%20Self%20-%20LOGO.png"
+                   alt="SELF by EVD" width="130"
+                   style="display:inline-block; max-width:130px; height:auto;">
+            </td>
+          </tr>
+
+          <!-- HERO IMAGE -->
+          <tr>
+            <td style="padding:0; line-height:0; font-size:0;">
+              <img src="https://raw.githubusercontent.com/biamamoreira/JORNADA-1---SELF---EVD/refs/heads/main/E-MAIL%201%20-%2026_06_2026.png"
+                   alt="Evidence Ballet — dança em movimento"
+                   width="600" class="mobile-full"
+                   style="display:block; width:100%; max-width:600px; height:auto;">
+            </td>
+          </tr>
+
+          <!-- CORPO -->
+          <tr>
+            <td class="mobile-pad" bgcolor="#ffffff" style="background-color:#ffffff; padding: 40px 48px 8px;">
+
+              <p style="font-family:'Clear Sans',Arial,sans-serif; font-size:15px; font-weight:300; color:#595959; line-height:1.85; margin:0 0 20px;">
+                A gente conhece a rotina que ningуém vê.<br>
+                Sabemos o peso de um coque bem preso antes de começar o ensaio, a textura do linóleo sob as sapatilhas, o som da respiração ritmada que preenche a sala e aquela busca incessante pela linha perfeita no espelho.
+              </p>
+
+              <p style="font-family:'Clear Sans',Arial,sans-serif; font-size:15px; font-weight:300; color:#595959; line-height:1.85; margin:0 0 20px;">
+                Aqui na Evidence, nós não apenas desenhamos roupas de dança. Nós vivemos nelas. Quem desenha cada recorte, quem escolhe a elasticidade do fio e quem testa a sustentação de um modelo no corpo também passa horas no estúdio.
+              </p>
+
+              <p style="font-family:'Clear Sans',Arial,sans-serif; font-size:15px; font-weight:300; color:#595959; line-height:1.85; margin:0 0 20px;">
+                É por isso que entendemos quando uma costura incomoda no meio de um adágio, ou quando um tecido não acompanha a fluidez de um grand jeté. A dança exige entrega total, e a sua roupa não pode ser uma distrao. Ela precisa ser uma extensão de quem você é.
+              </p>
+
+              <p style="font-family:'Clear Sans',Arial,sans-serif; font-size:15px; font-weight:300; color:#595959; line-height:1.85; margin:0 0 40px;">
+                Em 7 dias, nós vamos apresentar algo que nasceu dessa nossa vivência mútua. Algo feito por bailarinos, para bailarinos.<br>
+                Não é apenas sobre vestir. É sobre se expressar por inteiro.<br>
+                Fique de olho na sua caixa de entrada nos próximos dias.
+              </p>
+
+            </td>
+          </tr>
+
+          <!-- FOOTER CREME -->
+          <tr>
+            <td class="mobile-pad" bgcolor="#D1C5BC" style="background-color:#D1C5BC; padding:28px 48px;">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                <tr>
+                  <td align="center" style="padding-bottom:10px;">
+                    <img src="https://github.com/biamamoreira/evidence-ballet-email-templates/blob/main/logo_grafite.png?raw=true"
+                         alt="EVIDENCE ballet" width="100"
+                         style="display:inline-block; max-width:100px; height:auto;">
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" style="padding-bottom:14px;">
+                    <a href="https://evidenceballet.com.br"
+                       style="font-family:'Clear Sans',Arial,sans-serif; font-size:11px; font-weight:300; color:#6a5a50; text-decoration:none;">
+                      evidenceballet.com.br
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <a href="{{url_ver_navegador}}" style="font-family:'Clear Sans',Arial,sans-serif; font-size:10px; color:#8a7a70; text-decoration:underline;">ver no navegador</a>
+                    <span style="font-family:'Clear Sans',Arial,sans-serif; font-size:10px; color:#b0a090;">&nbsp;&middot;&nbsp;</span>
+                    <a href="{{url_descadastro}}" style="font-family:'Clear Sans',Arial,sans-serif; font-size:10px; color:#8a7a70; text-decoration:underline;">cancelar inscrição</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
